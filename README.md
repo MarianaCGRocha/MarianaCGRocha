@@ -1,4 +1,20 @@
-## Olá, eu sou a Mariana Rocha! 
+
+
+<img src="https://images.unsplash.com/photo-1531263060782-b024de9b9793?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=975&h=200&q=80"/>
+ 
+### Olá, eu sou a Mariana Rocha👋 Bem-vindo a minha página! <br>
+ 
+🔭 *Atualmente me dedico a*:  Aprender mais sobre as linguagens Java e Javascript através de cursos e bootcamps.<br>
+ 
+🌱 *Linguagens que mais estudo atualmente*: Java & Javascript<br>
+📫 Contato: <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Email](marianagomesr@gmail.com)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/marianacgrocha)
+ 
+ 😄 Pronomes: She/Her/Hers <br>
+ 
+<br>
+
 <div align="center">
   <a href="https://github.com/MarianaCGRocha">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marianacgrocha&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
