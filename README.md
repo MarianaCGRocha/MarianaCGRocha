@@ -7,10 +7,7 @@
 🔭 *Atualmente me dedico a*:  Aprender mais sobre as linguagens Java e Javascript através de cursos e bootcamps.<br>
  
 🌱 *Linguagens que mais estudo atualmente*: Java & Javascript<br>
-📫 Contato: <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Email](marianagomesr@gmail.com)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/marianacgrocha)
- 
+
  😄 Pronomes: She/Her/Hers <br>
  
 <br>
