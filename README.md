@@ -4,7 +4,7 @@
  
 ### Olá, eu sou a Mariana Rocha👋 Bem-vindo a minha página! <br>
  
-🔭 *Atualmente me dedico a*:  Aprender mais sobre as linguagens Java e Javascript através de cursos e bootcamps.<br>
+🔭 *Atualmente me dedico a*:  Java e Javascript<br>
  
 🌱 *Linguagens que mais estudo atualmente*: Java & Javascript<br>
 
