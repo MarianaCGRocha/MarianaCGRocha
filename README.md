@@ -6,7 +6,7 @@
  
 🔭 *Atualmente me dedico a*:  Java, Spring e Javascript<br>
  
-🌱 *Linguagens que mais estudo atualmente*: Java & Javascript<br>
+🌱 *Linguagens que mais estudo atualmente*: Java, Spring & Javascript<br>
 
 😄 Pronomes: She/Her/Hers <br>
  
