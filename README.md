@@ -4,11 +4,11 @@
  
 ### Olá, eu sou a Mariana Rocha👋 Bem-vindo a minha página! <br>
  
-🔭 *Atualmente me dedico a*:  Java e Javascript<br>
+🔭 *Atualmente me dedico a*:  Java, Spring e Javascript<br>
  
 🌱 *Linguagens que mais estudo atualmente*: Java & Javascript<br>
 
- 😄 Pronomes: She/Her/Hers <br>
+😄 Pronomes: She/Her/Hers <br>
  
 <br>
 
