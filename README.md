@@ -4,9 +4,9 @@
  
 ### Olá, eu sou a Mariana Rocha👋 Bem-vindo(a) a minha página! <br>
  
-🔭 *Atualmente me dedico a*:  Java, Spring e Javascript<br>
+🔭 *Atualmente me dedico a*:  Java & Spring<br>
  
-🌱 *Linguagens que mais estudo atualmente*: Java, Spring & Javascript<br>
+🌱 *Linguagens que mais estudo atualmente*: Java & Spring<br>
 
 😄 Pronomes: She/Her/Hers <br>
  
